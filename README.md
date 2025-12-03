@@ -58,5 +58,11 @@
 [![Kanishk’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kanishk989&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+<!--
+<details>
+ <summary>⚡Recent GitHub Activity</summary>
 
-[![](https://visitcount.itsvg.in/api?id=kanishk989&icon=0&color=0)](https://visitcount.itsvg.in)
+  <!--START_SECTION:activity--
+
+</details>
+-->
