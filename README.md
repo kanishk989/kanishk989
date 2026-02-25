@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kanishk+Soni;Backend+%26+MERN+Stack+Developer+in+Progress;Engineer+Who+Loves+Building+%26+Optimizing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kanishk+Soni;Backend+%26+Python+Developer+in+Progress;Engineer+Who+Loves+Building+%26+Optimizing)](https://git.io/typing-svg)
 
 # 💫 About Me
 - 🎓 B.E. in Computer Science (Chandigarh University, 2024)  
